@@ -63,7 +63,7 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 | [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/abs/2412.03104)            | arXiv | 2024.12 |           [Github](https://github.com/NetManAIOps/ChatTS) ⭐ 477 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-09           |
 | [A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization](https://arxiv.org/abs/2411.06018)               | arXiv | 2024.11 |                               [Github](https://github.com/haoxin1998/TimberBed-1)                               |
 | [TimeSeriesExam: A Time Series Understanding Exam](https://arxiv.org/abs/2410.14752)                                                              | arXiv | 2024.10 |                     [HuggingFace](https://huggingface.co/datasets/AutonLab/TimeSeriesExam1)                     |
-| [Can LLMs Understand Time Series Anomalies?](https://arxiv.org/abs/2410.05440)                                                                    |  ICLR | 2024.10 |     [Github](https://github.com/Rose-STL-Lab/AnomLLM/) ⭐ 46 \| 🐛 4 \| 🌐 Jupyter Notebook \| 📅 2024-10-16     |
+| [Can LLMs Understand Time Series Anomalies?](https://arxiv.org/abs/2410.05440)                                                                    |  ICLR | 2024.10 |     [Github](https://github.com/Rose-STL-Lab/AnomLLM/) ⭐ 47 \| 🐛 4 \| 🌐 Jupyter Notebook \| 📅 2024-10-16     |
 | [Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution](https://arxiv.org/abs/2410.04047)                         | arXiv | 2024.10 |                                                       None                                                      |
 | [Towards Time Series Reasoning with LLMs](https://arxiv.org/abs/2409.11376)                                                                       | arXiv | 2024.09 |                                                       None                                                      |
 | [Evaluating Large Language Models on Time Series Feature Understanding: A Comprehensive Taxonomy and Benchmark](https://arxiv.org/abs/2404.16563) | arXiv | 2024.04 |                                                       None                                                      |
@@ -92,4 +92,4 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
