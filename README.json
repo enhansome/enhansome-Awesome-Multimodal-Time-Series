@@ -1,7 +1,260 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multimodal Conditioned Diffusive Time Series Forecasting",
+          "description": "arXiv 2025.04 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 972232579,
+            "language": "Python",
+            "last_commit": "2025-07-29T05:05:36Z",
+            "owner": "synlp",
+            "repo": "MCD-TSF",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring the Effectiveness and Interpretability of Texts in LLM-based Time Series Models",
+          "description": "arXiv 2025.04 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 963020456,
+            "language": "Python",
+            "last_commit": "2025-05-04T06:35:52Z",
+            "owner": "zachysun",
+            "repo": "TS-Lang-Exp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data",
+          "description": "AAAI 2024.12 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 825313477,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-17T10:57:27Z",
+            "owner": "ForestsKing",
+            "repo": "ChatTime",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Modal Forecaster: Jointly Predicting Time Series and Textual Data",
+          "description": "arXiv 2024.11 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 869106708,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-28T04:49:37Z",
+            "owner": "Rose-STL-Lab",
+            "repo": "Multimodal_Forecasting",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Context is Key: A Benchmark for Forecasting with Essential Textual Information",
+          "description": "arXiv 2024.10 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 869006896,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-11T14:46:18Z",
+            "owner": "ServiceNow",
+            "repo": "context-is-key-forecasting",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection",
+          "description": "NeurIPS 2024.09 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 866946520,
+            "language": "Python",
+            "last_commit": "2024-10-30T11:26:51Z",
+            "owner": "daydreamer-amelia",
+            "repo": "From_News_to_Forecast",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time-MMD: Multi-Domain Multimodal Dataset for Time Series Analysis",
+          "description": "NeurIPS 2024.06 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 811004729,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-14T20:24:30Z",
+            "owner": "AdityaLab",
+            "repo": "Time-MMD",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues",
+          "description": "arXiv 2024.05 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 805190941,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-22T05:47:26Z",
+            "owner": "VEWOXIC",
+            "repo": "TGTSF",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language Models Still Struggle to Zero-shot Reason about Time Series",
+          "description": "arXiv 2024.04 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 721775205,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-25T22:12:56Z",
+            "owner": "behavioral-data",
+            "repo": "TSandLanguage",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Explainable Traffic Flow Prediction with Large Language Models",
+          "description": "arXiv 2024.04 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 844332299,
+            "language": "Python",
+            "last_commit": "2024-08-19T03:19:22Z",
+            "owner": "Guoxs",
+            "repo": "xTP-LLM",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT4MTS: Prompt-Based Large Language Model for Multimodal Time-Series Forecasting",
+          "description": "AAAI 2024.03 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 807769824,
+            "language": "Python",
+            "last_commit": "2024-09-17T01:55:50Z",
+            "owner": "Flora-jia-jfr",
+            "repo": "GPT4MTS-Prompt-based-Large-Language-Model-for-Multimodal-Time-series-Forecasting",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Time Series Forecasting"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering",
+          "description": "arXiv 2025.03 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 938566056,
+            "language": "Python",
+            "last_commit": "2026-02-18T03:20:07Z",
+            "owner": "Graph-and-Geometric-Learning",
+            "repo": "MTBench",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data",
+          "description": "AAAI 2024.12 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 825313477,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-17T10:57:27Z",
+            "owner": "ForestsKing",
+            "repo": "ChatTime",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning",
+          "description": "arXiv 2024.12 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 898323561,
+            "language": "Python",
+            "last_commit": "2026-07-09T09:54:46Z",
+            "owner": "NetManAIOps",
+            "repo": "ChatTS",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Can LLMs Understand Time Series Anomalies?",
+          "description": "ICLR 2024.10 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 841660370,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-16T21:30:06Z",
+            "owner": "Rose-STL-Lab",
+            "repo": "AnomLLM",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language Models Still Struggle to Zero-shot Reason about Time Series",
+          "description": "arXiv 2024.04 Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 721775205,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-25T22:12:56Z",
+            "owner": "behavioral-data",
+            "repo": "TSandLanguage",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Time Series Reasoning"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T21:08:24.984Z",
+    "last_updated": "2026-08-24T14:30:15.558Z",
     "original_repository": "ForestsKing/Awesome-Multimodal-Time-Series",
     "original_repository_id": 887269246,
     "original_repository_sha": "331300515388a3b07e298362b6e761e78051467a",
