@@ -60,7 +60,7 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 | [Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement](https://www.arxiv.org/abs/2503.01875)                              | arXiv | 2025.02 |                                  [HuggingFace](https://huggingface.co/Time-QA)                                  |
 | [Position: Empowering Time Series Reasoning with Multimodal LLMs](https://arxiv.org/abs/2502.01477)                                               | arXiv | 2025.02 |                                                       None                                                      |
 | [ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data](https://arxiv.org/abs/2412.11376)               |  AAAI | 2024.12 |     [Github](https://github.com/ForestsKing/ChatTime) ⭐ 165 \| 🐛 2 \| 🌐 Jupyter Notebook \| 📅 2026-05-17     |
-| [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/abs/2412.03104)            | arXiv | 2024.12 |           [Github](https://github.com/NetManAIOps/ChatTS) ⭐ 476 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-09           |
+| [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/abs/2412.03104)            | arXiv | 2024.12 |           [Github](https://github.com/NetManAIOps/ChatTS) ⭐ 477 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-09           |
 | [A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization](https://arxiv.org/abs/2411.06018)               | arXiv | 2024.11 |                               [Github](https://github.com/haoxin1998/TimberBed-1)                               |
 | [TimeSeriesExam: A Time Series Understanding Exam](https://arxiv.org/abs/2410.14752)                                                              | arXiv | 2024.10 |                     [HuggingFace](https://huggingface.co/datasets/AutonLab/TimeSeriesExam1)                     |
 | [Can LLMs Understand Time Series Anomalies?](https://arxiv.org/abs/2410.05440)                                                                    |  ICLR | 2024.10 |     [Github](https://github.com/Rose-STL-Lab/AnomLLM/) ⭐ 47 \| 🐛 4 \| 🌐 Jupyter Notebook \| 📅 2024-10-16     |
@@ -92,4 +92,4 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
