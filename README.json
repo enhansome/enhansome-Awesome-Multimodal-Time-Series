@@ -254,9 +254,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:17:44.657Z",
-    "original_repository": "ForestsKing/Awesome-Multimodal-Time-Series",
-    "original_repository_id": 887269246,
+    "last_updated": "2026-08-27T11:24:59.520Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 887269246,
+      "language": null,
+      "last_commit": "2025-08-27T07:38:12Z",
+      "owner": "ForestsKing",
+      "repo": "Awesome-Multimodal-Time-Series",
+      "stars": 227
+    },
     "original_repository_sha": "331300515388a3b07e298362b6e761e78051467a",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Time-Series",
     "enhanced_repository_description": null,
