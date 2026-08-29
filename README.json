@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 972232579,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-29T05:05:36Z",
+            "open_issues": 2,
             "owner": "synlp",
             "repo": "MCD-TSF",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to paper “Exploring the Effectiveness and Interpretability of Texts in LLM-based Time Series Models”.",
+            "homepage": null,
             "id": 963020456,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-04T06:35:52Z",
+            "open_issues": 0,
             "owner": "zachysun",
             "repo": "TS-Lang-Exp",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -42,12 +52,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of \"ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data\" (AAAI 2025 [oral])",
+            "homepage": null,
             "id": 825313477,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-05-17T10:57:27Z",
+            "open_issues": 2,
             "owner": "ForestsKing",
             "repo": "ChatTime",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "foundation-models",
+              "multimodal-time-series",
+              "multimodality",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -58,12 +78,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 869106708,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-10-28T04:49:37Z",
+            "open_issues": 0,
             "owner": "Rose-STL-Lab",
             "repo": "Multimodal_Forecasting",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -74,12 +99,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Context is Key: A Benchmark for Forecasting with Essential Textual Information",
+            "homepage": null,
             "id": 869006896,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-11T14:46:18Z",
+            "open_issues": 6,
             "owner": "ServiceNow",
             "repo": "context-is-key-forecasting",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -90,12 +120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is for the paper entitled: From News to Forecast: Integrating Event Analysis in LLM-based Time Series Forecasting with Reflection (NeurIPS 2024)",
+            "homepage": null,
             "id": 866946520,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-30T11:26:51Z",
+            "open_issues": 17,
             "owner": "daydreamer-amelia",
             "repo": "From_News_to_Forecast",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -106,12 +141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 811004729,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-01-14T20:24:30Z",
+            "open_issues": 5,
             "owner": "AdityaLab",
             "repo": "Time-MMD",
-            "stars": 214
+            "stars": 214,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -122,12 +162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of TGTSF in \"Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues\"",
+            "homepage": null,
             "id": 805190941,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-22T05:47:26Z",
+            "open_issues": 2,
             "owner": "VEWOXIC",
             "repo": "TGTSF",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -138,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 721775205,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-07-25T22:12:56Z",
+            "open_issues": 2,
             "owner": "behavioral-data",
             "repo": "TSandLanguage",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -154,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 844332299,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-19T03:19:22Z",
+            "open_issues": 0,
             "owner": "Guoxs",
             "repo": "xTP-LLM",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -170,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code implementation for GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting",
+            "homepage": null,
             "id": 807769824,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-17T01:55:50Z",
+            "open_issues": 2,
             "owner": "Flora-jia-jfr",
             "repo": "GPT4MTS-Prompt-based-Large-Language-Model-for-Multimodal-Time-series-Forecasting",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         }
@@ -192,12 +252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 938566056,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-18T03:20:07Z",
+            "open_issues": 2,
             "owner": "Graph-and-Geometric-Learning",
             "repo": "MTBench",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -208,12 +273,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of \"ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data\" (AAAI 2025 [oral])",
+            "homepage": null,
             "id": 825313477,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-05-17T10:57:27Z",
+            "open_issues": 2,
             "owner": "ForestsKing",
             "repo": "ChatTime",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "foundation-models",
+              "multimodal-time-series",
+              "multimodality",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -224,12 +299,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[VLDB' 25] ChatTS: LLM for Time Series Understanding and Reasoning",
+            "homepage": "https://huggingface.co/spaces/xiezhe22/ChatTS",
             "id": 898323561,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-09T09:54:46Z",
+            "open_issues": 0,
             "owner": "NetManAIOps",
             "repo": "ChatTS",
-            "stars": 477
+            "stars": 477,
+            "topics": [
+              "llm",
+              "multimodal",
+              "timeseries",
+              "timeseries-analysis"
+            ]
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -240,12 +325,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 841660370,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-10-16T21:30:06Z",
+            "open_issues": 4,
             "owner": "Rose-STL-Lab",
             "repo": "AnomLLM",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         },
@@ -256,12 +346,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 721775205,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-07-25T22:12:56Z",
+            "open_issues": 2,
             "owner": "behavioral-data",
             "repo": "TSandLanguage",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
         }
@@ -270,15 +365,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:29.684Z",
+    "last_updated": "2026-08-29T04:51:34.123Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of paper, code, data, and other resources focus on multimodal time series analysis.",
+      "homepage": null,
       "id": 887269246,
       "language": null,
+      "license": null,
       "last_commit": "2025-08-27T07:38:12Z",
+      "open_issues": 0,
       "owner": "ForestsKing",
       "repo": "Awesome-Multimodal-Time-Series",
-      "stars": 227
+      "stars": 227,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-resources",
+        "multimodal-deep-learning",
+        "multimodal-time-series",
+        "multimodality",
+        "time-series",
+        "time-series-analysis",
+        "time-series-forecasting"
+      ]
     },
     "original_repository_sha": "331300515388a3b07e298362b6e761e78051467a",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Time-Series",
