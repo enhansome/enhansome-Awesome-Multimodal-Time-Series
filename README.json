@@ -108,7 +108,7 @@
             "open_issues": 6,
             "owner": "ServiceNow",
             "repo": "context-is-key-forecasting",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T22:41:16.175Z",
+    "last_updated": "2026-09-14T23:32:14.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of paper, code, data, and other resources focus on multimodal time series analysis.",
