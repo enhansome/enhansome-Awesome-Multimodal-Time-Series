@@ -129,7 +129,7 @@
             "open_issues": 17,
             "owner": "daydreamer-amelia",
             "repo": "From_News_to_Forecast",
-            "stars": 183,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
@@ -308,7 +308,7 @@
             "open_issues": 0,
             "owner": "NetManAIOps",
             "repo": "ChatTS",
-            "stars": 482,
+            "stars": 483,
             "topics": [
               "llm",
               "multimodal",
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:17:30.360Z",
+    "last_updated": "2026-09-17T23:08:48.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of paper, code, data, and other resources focus on multimodal time series analysis.",
