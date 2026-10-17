@@ -108,7 +108,7 @@
             "open_issues": 6,
             "owner": "ServiceNow",
             "repo": "context-is-key-forecasting",
-            "stars": 102,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T04:56:09.320Z"
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:03:50.591Z",
+    "last_updated": "2026-10-17T22:43:07.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of paper, code, data, and other resources focus on multimodal time series analysis.",
@@ -377,7 +377,7 @@
       "open_issues": 0,
       "owner": "ForestsKing",
       "repo": "Awesome-Multimodal-Time-Series",
-      "stars": 227,
+      "stars": 228,
       "topics": [
         "awesome",
         "awesome-list",
