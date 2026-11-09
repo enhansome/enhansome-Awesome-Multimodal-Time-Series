@@ -308,7 +308,7 @@
             "open_issues": 0,
             "owner": "NetManAIOps",
             "repo": "ChatTS",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "llm",
               "multimodal",
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:02:06.870Z",
+    "last_updated": "2026-11-09T00:08:36.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of paper, code, data, and other resources focus on multimodal time series analysis.",
