@@ -82,7 +82,7 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 
 | Title                                                                                                                | Venue |  Month  |                                          Code                                         |
 | :------------------------------------------------------------------------------------------------------------------- | :---: | :-----: | :-----------------------------------------------------------------------------------: |
-| [T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models](https://arxiv.org/abs/2505.02417) | IJCAI | 2025.05 | [Github](https://github.com/WinfredGe/T2S) ⭐ 95 \| 🐛 1 \| 🌐 Python \| 📅 2026-05-01 |
+| [T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models](https://arxiv.org/abs/2505.02417) | IJCAI | 2025.05 | [Github](https://github.com/WinfredGe/T2S) ⭐ 96 \| 🐛 1 \| 🌐 Python \| 📅 2026-05-01 |
 
 ## Time Series Alignment
 
@@ -92,4 +92,4 @@ A curated list of paper, code, data, and other resources focus on multimodal tim
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
